@@ -531,7 +531,7 @@ int main(int argc, TCHAR* argv[]) {
                         Circle_Square = true;
                         return 0;
 
-                    }
+                    } 
                 }
             }
         }
