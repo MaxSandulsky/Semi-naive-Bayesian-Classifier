@@ -145,11 +145,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="NewClass.cpp" />
     <ClCompile Include="ПО1-2.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="NewClass.h" />
     <ClInclude Include="ПО1-2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
