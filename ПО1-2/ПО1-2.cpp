@@ -12,7 +12,6 @@
 using namespace std;
 using namespace cv;
 
-
 bool TrainingSwitch = false;
 bool Circle_Square = false; //True for circles
 bool GeneratorSwitch = false; //True for turning off then generation is complite
@@ -537,4 +536,3 @@ int main(int argc, TCHAR* argv[]) {
         }
     } while (1);
 }
-
